@@ -1,20 +1,23 @@
-## Hi there 👋
+# Hi! I'm Xiaoyue Liu
 
-<!--
-**xiaoyueliu-climate/xiaoyueliu-climate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Xiaoyue Liu (**/ˌʃjaʊˈjweɪ ljoʊ/**, he/him), a Postdoctoral researcher at [ISGlobal](https://www.isglobal.org/en/), contributing to the EU Horizon projects [CATALYSE](https://catalysehorizon.eu/) and [EARLY-ADAPT](https://early-adapt.eu/).
 
-Here are some ideas to get you started:
+**Research interests**
+- Climate & health modelling  
+- Impact-based health early warning systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Postdoctoral researcher @ ISGlobal (Barcelona) • Climate & health modelling • Heat-Health Early Warning Systems (HEWS)
-
-[Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl) • [ORCID](https://orcid.org/0000-0001-8074-3362) • [Email](mailto:xiaoyue.liu@isglobal.org)
+<a href="https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl">
+      <img src="https://img.shields.io/badge/Googles_Sholar-100000?style=flat&logo=googlescholar&logoColor=white&color=4285F4" />
+</a>
+<a href="https://orcid.org/0000-0001-8074-3362">
+      <img src="https://img.shields.io/badge/ORCID-100000?style=flat&logo=ORCID&logoColor=white&color=A6CE39" />
+</a>
+<a href="https://www.researchgate.net/profile/Xiaoyue-Liu-4">
+      <img src="https://img.shields.io/badge/ResearchGate-100000?style=flat&logo=researchgate&logoColor=white&color=00CCBB" />
+</a>
+<a href="https://www.linkedin.com/in/xiaoyue-liu-b35aa7293/">
+      <img src="https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=white&color=0A66C2" />
+</a>
+<a href="mailto:xiaoyue.liu@isglobal.org">
+  <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
