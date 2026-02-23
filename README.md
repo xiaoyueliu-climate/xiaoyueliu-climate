@@ -1,6 +1,6 @@
 # Hi! I'm Xiaoyue Liu
 
-I’m Xiaoyue Liu (**/ˌʃjaʊˈjweɪ ljoʊ/**, he/him), a Postdoctoral researcher at [ISGlobal](https://www.isglobal.org/en/), contributing to the EU Horizon projects [CATALYSE](https://catalysehorizon.eu/) and [EARLY-ADAPT](https://early-adapt.eu/).
+I’m Xiaoyue Liu (/ˌʃjaʊˈjweɪ ljoʊ/, he/him), a Postdoctoral researcher at [ISGlobal](https://www.isglobal.org/en/), contributing to the EU Horizon projects [CATALYSE](https://catalysehorizon.eu/) and [EARLY-ADAPT](https://early-adapt.eu/).
 
 **Research interests**
 - Climate & health modelling  
