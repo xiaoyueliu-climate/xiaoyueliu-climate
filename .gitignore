@@ -1,0 +1,29 @@
+# LaTeX auxiliary and build-state files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.xdv
+
+# Bibliography and index intermediates
+*.bbl
+*.bcf
+*.blg
+*.idx
+*.ilg
+*.ind
+*.run.xml
+
+# Generated tables of contents and lists
+*.lof
+*.lot
+*.toc
+
+# Editor backup files
+*~
+*.bak
+
+# Latex source files
+*.tex
